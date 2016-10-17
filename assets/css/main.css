@@ -20,7 +20,7 @@ body{
 
 .space{
   width: 100%;
-  height: 80px;
+  height: 100px;
 }
 
 .social a i{
@@ -44,7 +44,7 @@ body{
 @media (min-width: 778px)
 {
   .main2{
-    height: 300vh !important;
+    height: 200vh !important;
   }
 
   .main3{
