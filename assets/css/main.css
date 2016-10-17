@@ -12,7 +12,7 @@ body{
   font-style: italic;
   font-weight: 600;
   font-family: "Crimson";
-  font-size: 19px;
+  font-size: 17px;
     padding-top: 10px;
     line-height: 29px;
 
@@ -47,6 +47,10 @@ body{
     height: 200vh !important;
   }
 
+  .main3{
+    height: 103vh;
+  }
+
     .main{
       height: 100vh;
       overflow: hidden;
@@ -54,6 +58,7 @@ body{
 
     .img-rabbit{
       margin: 0 -15px;
+      opacity: 0.92;
     }
 
     .btn-group-vertical{
@@ -69,8 +74,8 @@ body{
     }
 
     .home-description{
-      padding-right: 90px;
-      padding-left: 90px;
+      padding-right: 10px;
+      padding-left: 10px;
 
     }
 }
@@ -81,7 +86,7 @@ body{
   background-color: #fff;
   color: #111;
   font-style: italic;
-  border: 1px solid #111;
+  border: 2px solid #de9a5a;
   border-radius: 0px !important;
   transition: all 0.4s ease-in-out;
   margin-bottom: 20px;
@@ -114,6 +119,19 @@ p{
 
 .logo h4{
   font-family: 'Josefin Sans';
+  font-size: 25px !important;
+  margin-top: -2px !important;
+  padding-right: 5px !important;
+  color: #585858;
+}
+
+#skills-desc{
+  color: #de9a5a;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: 400;
+
+
 }
 
 
